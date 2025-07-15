@@ -1,0 +1,2 @@
+1) It seems like my code works with or without a shebang and I don't need
+to put "sh" before the code. Is it necessary?
